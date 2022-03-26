@@ -10,6 +10,8 @@ int main() {
     for(int i = 0; i < parsedString.size(); i++) {
         cout << parsedString[i] << '\n';
     }
+
+    return 0;
 }
 
 // PSUEDO CODE
@@ -18,3 +20,4 @@ int main() {
 // PRSA = The action of the string, PRSO = The direct object of the string, 
 // PRSI = The indirect object of the string(this parameter is optional).
 
+// C:\Users\Kolten\Documents\Programming\C++ Games\project-blight\main.cpp
